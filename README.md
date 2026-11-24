@@ -32,5 +32,4 @@ Logistic Regression was selected because it had the strongest 5-fold training CV
 3. The dataset is observational; reminder associations and model feature effects do not establish causality.
 4. The GenAI review uses only 10 notes, so its themes are illustrative and require human verification before operational use.
 
-## Repository publication
-Replace the placeholder repository URL at the top with the public GitHub repository URL. Confirm repository visibility is **Public** before submission.
+
